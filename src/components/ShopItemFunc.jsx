@@ -26,7 +26,7 @@ const ShopItemFunc = () => {
           <button>Добавить в корзину</button>
         </div>
       </div>
-    )
+    );
   }
 };
 

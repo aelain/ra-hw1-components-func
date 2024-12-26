@@ -13,7 +13,7 @@ function App() {
         <ShopItemFunc />
       </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
